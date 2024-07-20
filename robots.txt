@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+Sitemap: https://halo-lab.com/sitemap.xml
+Host: https://halo-lab.com
